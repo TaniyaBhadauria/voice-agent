@@ -1,0 +1,48 @@
+AGENT: This call may be recorded for quality and training purposes.
+VOICE ASSISTANT: Hello, this is Kevin Patel. I'd like to schedule an appointment to see the doctor.
+AGENT: The point orthopedic.
+VOICE ASSISTANT: Great, thank you for specifying. Could you help me with the doctor's name you usually see, or is this your first time visiting this particular specialty?
+AGENT: Got it just to be sure. Is this your first time visiting our clinic or do you already have a specific doctor? You'd like to see
+VOICE ASSISTANT: This will be my first time visiting your clinic.
+AGENT: Thanks for letting me know to better assist. You would you like to create a demo patient profile?
+VOICE ASSISTANT: Yes, please go ahead and create a demo patient profile for me. Thank you!
+AGENT: Can you please tell me your first name and last name?
+VOICE ASSISTANT: My first name is Kevin, and my last name is Patel.
+AGENT: Your patient profile has been created. Kevin and your date of birth is July 4th 2000 for demo purposes. How may I help you today?
+VOICE ASSISTANT: I need to schedule an appointment to see a doctor. Could you help me with the available dates and times?
+AGENT: Are you'd like to schedule your first appointment?
+VOICE ASSISTANT: Yes, I'd like to schedule my first appointment.
+AGENT: Example, no problem. Could you tell me what type of appointment you'd like to book?
+VOICE ASSISTANT: I'm looking to see an orthopedic specialist.
+AGENT: The proceed.
+VOICE ASSISTANT: Could you please provide me with the available dates and times for an appointment with the orthopedic specialist?
+AGENT: deciding on the type of
+VOICE ASSISTANT: Let's go with a general consultation for my first appointment with the orthopedic specialist.
+AGENT: What type of?
+VOICE ASSISTANT: A general consultation to discuss and assess any orthopedic concerns I have.
+AGENT: like, you were about to
+VOICE ASSISTANT: Yes, I'd like to book a general consultation with an orthopedic specialist to discuss my concerns. Could you please check the availability for this type of appointment?
+AGENT: Could you please confirm what to help you get scheduled? Could you tell me which type of appointment you need? For example, a new patient consultation, a follow-up procedure or physical therapy.
+VOICE ASSISTANT: I need a new patient consultation with an orthopedic specialist.
+AGENT: Got it. You like a new patient consultation with an orthopedic specialist?
+VOICE ASSISTANT: Yes, that's correct.
+AGENT: Times for you. We have openings as soon as Tuesday, February 17th
+VOICE ASSISTANT: That date works for me. What times are available on Tuesday, February 17th?
+AGENT: In the afternoon.
+VOICE ASSISTANT: Could you please specify the exact times available in the afternoon? I'd like to choose the most suitable time for my schedule.
+AGENT: On Tuesday, I'm here on Tuesday, February 17th. Be available afternoon times with Dr. Dudy Howser or 1:30 p.m. to 15 p.m. 3 p.m. 3:45 p.m.
+VOICE ASSISTANT: I'll take the 3:00 p.m. appointment on Tuesday, February 17th with Dr. Dudy Howser.
+AGENT: P.m.
+VOICE ASSISTANT: Yes, 3:00 p.m. is perfect. Please book that for me. Thank you!
+AGENT: to confirm you'd like,
+VOICE ASSISTANT: Yes, please confirm the appointment for me at 3:00 p.m. on Tuesday, February 17th with Dr. Dudy Howser. Thank you!
+AGENT: Set for 2. Your appointment is booked for Tuesday, February 17th at 3:00 p.m. with Dr. Doogie Howser
+VOICE ASSISTANT: Thank you for confirming the appointment. I appreciate your help!
+AGENT: ID and your.
+VOICE ASSISTANT: Could you please clarify what specific information or action you need regarding my ID?
+AGENT: Reminder for your appointment.
+VOICE ASSISTANT: Yes, a reminder would be great. Thank you for setting that up.
+AGENT: How else I can assist? You're going to text reminder about your appointment soon. Is there anything else I can help you with today?
+VOICE ASSISTANT: That will be all for today. Thank you for your assistance!
+AGENT: Got it. Your visit is all set. Have a great day.
+VOICE ASSISTANT: Thank you! Have a great day too. Goodbye!

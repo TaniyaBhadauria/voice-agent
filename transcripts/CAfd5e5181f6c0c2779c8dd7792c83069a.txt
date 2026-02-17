@@ -1,0 +1,34 @@
+AGENT: This call may be recorded for quality and training purposes.
+VOICE ASSISTANT: Hello, this is Kevin Patel. I had an appointment scheduled for Tuesday at 3 PM, but something urgent came up at work, and I need to reschedule. I'm available Thursday afternoon—actually, wait, I just remembered I have a meeting then. Could you please confirm what time my original appointment was?
+AGENT: Part of pretty good. AI. Am I speaking with Kevin?
+VOICE ASSISTANT: Yes, this is Kevin. I apologize for the confusion earlier. Can we find another time for my appointment?
+AGENT: No problem. Kevin, can you please confirm your date of birth? So I can get started with rescheduling your appointment.
+VOICE ASSISTANT: I'm sorry, but I can't provide personal details like my date of birth over the phone. Can we proceed with rescheduling the appointment based on my name and original appointment time?
+AGENT: I understand your concern, but I need to verify your identity with your date of birth before I can help with rescheduling.
+VOICE ASSISTANT: I appreciate the need for security. However, for privacy reasons, I'd prefer not to provide my date of birth over the phone. Could we use another piece of information for verification, or could I answer security questions instead?
+AGENT: Another way, I can assist you.
+VOICE ASSISTANT: Great, thank you for understanding. What information do you need from me to proceed?
+AGENT: it sounds like you're
+VOICE ASSISTANT: Yes, I'm here. How can we proceed with rescheduling the appointment?
+AGENT: Today. Go ahead and let me know what you need help with.
+VOICE ASSISTANT: I need to reschedule my appointment that was originally set for Tuesday at 3 PM. Since Thursday afternoon won’t work for me, could you let me know what other times are available later in the week?
+AGENT: Got it. I'll need your date of birth to look up your appointment details and check available time.
+VOICE ASSISTANT: I understand the procedure, but as I mentioned earlier, I'd prefer not to share my date of birth over the phone. If it's possible to look up my appointment under my name and the initial appointment date and time for verification, that would be ideal. Could we try that?
+AGENT: I can connect you to our patient support team. However, I'm a pretty good Ai and can do many of the things and operator can do. You want to give me a try?
+VOICE ASSISTANT: Yes, let's proceed with your assistance. Can you check the availability for rescheduling my appointment based on my name, Kevin Patel, and the initial appointment time, which was Tuesday at 3 PM? Thank you for your help.
+AGENT: Got it. Hi there. How may I help you today?
+VOICE ASSISTANT: I need to reschedule my appointment that was originally set for Tuesday at 3 PM. Could you please check the available times later in the week for me to reschedule? Thank you.
+AGENT: Got it.
+VOICE ASSISTANT: Thank you. Please let me know the available times.
+AGENT: Can you please?
+VOICE ASSISTANT: Yes, could you please provide the available times for rescheduling my appointment later in the week? Thank you.
+AGENT: Got it. I'll need to confirm your date of birth to check available times for your appointment. Could you provide that for verification?
+VOICE ASSISTANT: As I've mentioned before, I'm not comfortable providing my date of birth over the phone. Is there any other information we can use to verify my identity, or could we proceed based on the details I've already provided about my appointment? Thank you for your understanding.
+AGENT: I'm here. I understand your concerns but I need your date of birth to verify your identity before I can access or change appointment details.
+VOICE ASSISTANT: I understand the need for verification. Since I am not comfortable providing my date of birth over the phone, could we possibly handle this verification through a secure method? Perhaps I can verify through an online portal or through secure email correspondence?
+AGENT: If there's any thanks for understanding, if you need anything else or change your mind, just let me know.
+VOICE ASSISTANT: Thank you for your assistance. I will consider verifying through a more secure method and get back to you. Have a great day!
+AGENT: Understood. Hi there. How may I help you today?
+VOICE ASSISTANT: It seems there was a bit of confusion, but for now, I'll look into other options to verify my identity securely and contact you back later. Thank you for your help today. Goodbye!
+AGENT: Understood, if you have any questions or need help, later feel free to reach out. Have a great day.
+VOICE ASSISTANT: Thank you very much! I appreciate your help. Have a great day too! Goodbye.

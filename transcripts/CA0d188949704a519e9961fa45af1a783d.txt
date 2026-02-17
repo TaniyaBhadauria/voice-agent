@@ -1,0 +1,82 @@
+AGENT: This call may be recorded for quality and training purposes.
+VOICE ASSISTANT: Hello! How can I assist you today?
+AGENT: Pivot Point.
+VOICE ASSISTANT: Hi there, I'm Jordan Mitchell. I need to schedule an appointment because I've been having persistent headaches. I'm available next Wednesday afternoon. Can we set something up then?
+AGENT: Spotted Jordan, before we schedule your appointment. Would you like to create a Demo patient profile.
+VOICE ASSISTANT: I think I'll skip the profile for now. Let's just focus on getting that appointment scheduled. Can we confirm a time for next Wednesday afternoon?
+AGENT: To schedule an appointment, you'll need a demo patient profile. You can scan the QR code at the booth later to set it up.
+VOICE ASSISTANT: Oh, actually, I just remembered I will be out of town all of next week. Can we look at other options? Maybe the following week? Also, is there any way the doctor could prescribe something for my migraines without an in-person visit? I've been dealing with this for a while now.
+AGENT: I, understand.
+VOICE ASSISTANT: And also, could you let me know how much the visit will cost? I'm not entirely sure if my insurance is active yet.
+AGENT: To help you with.
+VOICE ASSISTANT: Can you check what the cost would be both with and without insurance? I need to figure out my options here.
+AGENT: You'd like to schedule or discuss migraine treatment, I'll need to create a demo patient profile for you. Would you like to do that? Now I just need your first and last name.
+VOICE ASSISTANT: My name is Jordan Mitchell. Let's go ahead and create that profile so we can move forward with scheduling and discussing the treatment options.
+AGENT: Got it. Jordan let me create your demo patient profile now so we can move forward with your appointment and treatment questions.
+VOICE ASSISTANT: Thank you. Please let me know once my profile is set up and what the next steps are.
+AGENT: Your patient profile has been created and your date of birth is July. 4th 2000 for demo purposes. How may I help you today?
+VOICE ASSISTANT: Actually, my correct date of birth is December 12, 1986. Could we update that in my profile? Also, can we proceed with scheduling an appointment for the week after next, and discuss the migraine treatment options available without an in-person visit?
+VOICE ASSISTANT: Hello
+AGENT: I'm here, Jordan. Let me check available appointments for the week after next.
+VOICE ASSISTANT: Great, thank you! And please let me know about the migraine treatment options that can be managed without an in-person visit.
+VOICE ASSISTANT: Can you confirm if there are any specific requirements or conditions under which the provider can prescribe medication for migraines without an in-person visit? Also, please update me on the available appointment times for the week after next.
+AGENT: let me check available appointment times for the week after next and clarify the requirements for getting migraine medication without an in-person visit, 1 moment, while I fetch that information
+VOICE ASSISTANT: Could you list those available times for me? I'll need to coordinate with my travel schedule to ensure I can make it.
+AGENT: We have.
+VOICE ASSISTANT: Please go ahead and list the available times for the week after next. I'd like to finalize the appointment during this call.
+AGENT: Here are some available. We have openings starting Monday, February 23rd through Friday that week. Would you prefer a specific day or time of day?
+VOICE ASSISTANT: Let's aim for Monday, February 23rd in the afternoon. Could you confirm the exact times available that afternoon?
+AGENT: This will help me find.
+VOICE ASSISTANT: Yes, an appointment around 3:00 PM on Monday, February 23rd would work best for me. Can we lock that in? Also, please remember to update my date of birth in the system to December 12, 1986.
+AGENT: Work best for you that great. Do you have a preferred day or time of day for your appointment? The week after next, for example, morning or afternoon.
+VOICE ASSISTANT: Yes, as mentioned, let's confirm the appointment for Monday, February 23rd at 3:00 PM. Please go ahead and book that time for me.
+AGENT: Actually, for money. I'm here. The earliest available slot on Monday. February 23rd is 900 a.m. there are morning slots, but none at 3:00 p.m. that day.
+VOICE ASSISTANT: Alright, if 3:00 PM isn't available, let's go for the 9:00 AM slot on Monday, February 23rd. Please book that for me. Also, could you give me an update on the migraine medication prescription process without an in-person visit?
+AGENT: To look at afternoon options on another day that week.
+VOICE ASSISTANT: If there are afternoon slots available on any other day that week, please let me know the times. I prefer the afternoon if possible. Thanks!
+AGENT: Got it.
+VOICE ASSISTANT: Thank you. Please confirm the afternoon appointment times available and let's finalize one of those.
+AGENT: Of afternoon.
+VOICE ASSISTANT: Could you please specify the available afternoon appointment times for that week? I'd like to finalize this today.
+AGENT: Openings for the week.
+VOICE ASSISTANT: Great, could you specify the exact days and times for those afternoon openings? I'd like to choose the best option for my schedule.
+AGENT: I'm here for the week after next. Here are available afternoon, openings, Tuesday, February 24th, 12:00 p.m. 12:45 p.m.
+VOICE ASSISTANT: Let's go with Tuesday, February 24th at 12:45 p.m. Please book that for me. And could you also confirm if the migraine medication can be prescribed without an in-person visit?
+AGENT: Your appointment.
+VOICE ASSISTANT: Thank you for scheduling the appointment. Now, could you please confirm if the doctor can prescribe migraine medication without me having to come in for a visit?
+AGENT: Tuesday.
+VOICE ASSISTANT: Alright, the appointment is set for Tuesday, February 24th at 12:45 p.m. Thank you for confirming that. Now, about the migraine medication, can it be prescribed without an in-person visit? What are the steps I need to follow?
+AGENT: Day February.
+VOICE ASSISTANT: Yes, I have the appointment noted for Tuesday, February 24th at 12:45 p.m. Could you please clarify the process for prescribing migraine medication without an in-person visit? This is important for me to understand before the appointment.
+AGENT: confirmed for
+VOICE ASSISTANT: Great, the appointment is confirmed. Now, can you please provide the details on how I can get a prescription for the migraine medication? What are the necessary steps or conditions for this to happen without an in-person visit?
+AGENT: 24th at 12.
+VOICE ASSISTANT: Thank you for confirming the appointment time. Now, could we discuss the possibility of getting a prescription for migraine medication without an in-person visit? How does that process work?
+AGENT: On Tuesday.
+VOICE ASSISTANT: Yes, for Tuesday, February 24th at 12:45 p.m. Now, regarding the migraine medication, can the doctor prescribe it without me having to come in, or what are the requirements for this?
+AGENT: Please remember.
+VOICE ASSISTANT: Understood. Please ensure that the appointment details are saved, and let me know about prescribing the migraine medication. What are the next steps for me to follow to get this prescription without an in-person visit, if possible?
+AGENT: ID and your.
+VOICE ASSISTANT: Could you clarify what ID and additional information you need from me to proceed with the prescription or any other necessary steps?
+AGENT: Appointment.
+VOICE ASSISTANT: Thank you for confirming the appointment. Now, for the migraine medication, can you provide specific instructions or requirements for obtaining a prescription without an in-person visit?
+AGENT: would you like me to text reminder for your appointment on February, 24th at 12:45 p.m.
+VOICE ASSISTANT: Yes, please send me a text reminder for the appointment on February 24th at 12:45 p.m. Also, please confirm the process for obtaining a migraine medication prescription without an in-person visit.
+AGENT: I'm here, a text reminder for your appointment has been sent to your phone ending in 6366.
+VOICE ASSISTANT: Thank you for setting that up. However, my phone number is actually 888-888-8888. Could you update that and resend the reminder? Also, we still need to address the migraine medication prescription process. Can you provide details on that?
+AGENT: Described without an, you're welcome. The clinic team will follow up with you about migraine prescriptions
+VOICE ASSISTANT: Thank you for the update. Please ensure my phone number is corrected to 888-888-8888 for the text reminder and any future communications. I appreciate the clinic team following up about the migraine prescription. Is there anything else I should expect or prepare for before my appointment?
+AGENT: Let me confirm your phone number should be 888888.
+VOICE ASSISTANT: Yes, that's correct. My phone number is 888-888-8888. Please update it in my profile and ensure that the reminder and any other communications come to this number. Thank you for confirming that.
+AGENT: This number for follow.
+VOICE ASSISTANT: Perfect, thank you for updating that. I look forward to the follow-up from the clinic team regarding the migraine medication. Is there anything else we need to cover today?
+AGENT: 888.
+VOICE ASSISTANT: Yes, that's correct. If everything is set, I think we're good for now. Thank you for your help today!
+AGENT: Issued photo.
+VOICE ASSISTANT: If you need an issued photo ID for the appointment, I can bring that along. Please confirm if there's anything specific required. Thank you!
+AGENT: Offset.
+VOICE ASSISTANT: Could you please clarify what you mean by "offset"? Is there something specific you need me to do or provide?
+AGENT: Need anything else?
+VOICE ASSISTANT: No, that should be everything for now. Thank you for your assistance. Have a great day!
+AGENT: You're all set. Jordan, have a great day.
+VOICE ASSISTANT: Thank you! You too. Goodbye!

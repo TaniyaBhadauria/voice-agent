@@ -1,0 +1,24 @@
+AGENT: This call may be recorded for quality and training purposes.
+VOICE ASSISTANT: Hello, I'm Marcus.
+AGENT: Am I speaking with Kevin?
+VOICE ASSISTANT: Oh, I'm sorry for any confusion, but you're speaking with Marcus Brown. How can I assist you further?
+AGENT: Marcus, are you calling about your own care or someone else's? And what can I help you with today?
+VOICE ASSISTANT: I'm calling about my own care. I need to request a refill for my Lisinopril prescription. I only have three pills left, and I take it daily for high blood pressure. Could you assist me with processing this refill at the Walgreens on Main Street? Thank you.
+AGENT: I'll help with your lisinopril, refill request. Can I get your Dana birth to verify your identity?
+VOICE ASSISTANT: Certainly! My date of birth is December 12, 1981.
+AGENT: I'm here just to confirm. Could you please spell your full name for me? This helps make sure I have the right information before we move forward.
+VOICE ASSISTANT: Of course, my full name is spelled M-a-r-c-u-s B-r-o-w-n.
+AGENT: Phone number to look up. I'm still here. Would you like to use your phone number to look up your record? Or would you prefer to confirm your full name and date of birth once more?
+VOICE ASSISTANT: You can use my phone number to look up my record. It's 888-888-8888.
+AGENT: I'm here, let me confirm your phone number is 888.
+VOICE ASSISTANT: Yes, that's correct. My phone number is 888-888-8888.
+AGENT: Right with a patient. I'm here I'm having trouble finding your record with the information provided I can document your refill request and make sure our Clinic support team follows up with you.
+VOICE ASSISTANT: Thank you for your help. Please go ahead and document my refill request for Lisinopril, and I appreciate the follow-up from the clinic support team. Let me know if there's anything else you need from me to facilitate this.
+AGENT: Done that.
+VOICE ASSISTANT: Thank you! If you need any more information from me or if there's anything else I can do, please let me know. I appreciate your assistance.
+AGENT: I've noted your, I'm still on the line, I've documented your refill request and your contact details for The Clique support team.
+VOICE ASSISTANT: Thank you for your assistance. Please let me know if there's anything further I need to do or provide.
+AGENT: anything else just let me know.
+VOICE ASSISTANT: That's all for now. Thank you for your help today!
+AGENT: Questions or got it, take care and have a good day.
+VOICE ASSISTANT: Got it, thank you! Take care and have a good day as well.

@@ -1,0 +1,34 @@
+AGENT: This call may be recorded for quality and training purposes, but Espanol.
+VOICE ASSISTANT: Hello, I'm Megan Brooks. I need to cancel my appointment on Tuesday at 3 PM. Also, could you tell me your office hours, please?
+AGENT: Point Orthopedics part of pretty good. AI am I speaking with Jordan
+VOICE ASSISTANT: Hello! I'm actually not Jordan. To confirm, you'd like to cancel your appointment for Tuesday at 3 PM, right? I can help with that and also provide you with the office hours. 
+
+By the way, are you an automated system or am I speaking to a person?
+AGENT: You want?
+VOICE ASSISTANT: Yes, I'd like to cancel my appointment. Also, could you clarify if you are an automated system or a human representative?
+AGENT: I'm a virtual assistant here to help with your requests including canceling appointments. Let me get started canceling, your upcoming appointment can I have the patient's full name and date of birth to verify the appointment?
+VOICE ASSISTANT: Thank you for letting me know. My full name is Megan Brooks and my date of birth is December 12, 1988. Please go ahead and cancel my appointment for Tuesday at 3 PM. Additionally, could you provide the office hours?
+AGENT: I'm here. I just need you to spell out your first and last name for me Megan. So I can confirm your information.
+VOICE ASSISTANT: Sure, it's Megan, M-E-G-A-N, Brooks, B-R-O-O-K-S. Please proceed with canceling the appointment.
+AGENT: Would you like to use? I'm here. Would you like to use your phone number to look up your record for the cancellation?
+VOICE ASSISTANT: Yes, please use my phone number, 888-888-8888, to look up my record for the cancellation. Thank you.
+AGENT: Have on file with the great. Please tell me the phone number. You have on file with us.
+VOICE ASSISTANT: The phone number you should have on file for me is 888-888-8888. Please use that to proceed with the cancellation of my appointment.
+AGENT: Let me confirm. I'm still here. Let me confirm. I have your phone number as 88888888888.
+VOICE ASSISTANT: It seems there's an extra digit in the number you mentioned. My correct phone number is 888-888-8888. Please use that to confirm and cancel my appointment.
+AGENT: December 12th.
+VOICE ASSISTANT: Yes, that's correct, my date of birth is December 12th, 1988. Can you confirm that my appointment for Tuesday at 3 PM has been canceled? Also, could you please provide the office hours?
+AGENT: 888.
+VOICE ASSISTANT: It seems there might have been a misunderstanding. My phone number is 888-888-8888. Can you please confirm the cancellation of my appointment for Tuesday at 3 PM? Additionally, I'd still like to know the office hours. Thank you.
+AGENT: See further right now.
+VOICE ASSISTANT: Thank you for your assistance. Just to confirm, has my appointment for Tuesday at 3 PM been successfully canceled? And could you please provide the office hours?
+AGENT: I wasn't able to complete the cancellation because I couldn't find your record using the details. You provided our Clinic support team will need to follow up with you to finish the cancellation. Clinic hours are Monday. Tuesday and Thursday from 9:00 a.m. to 4:00 p.m.
+VOICE ASSISTANT: Thank you for the information on the office hours. I understand there was an issue with cancelling my appointment. I would appreciate if the clinic support team could follow up with me to ensure the cancellation is completed. Please let them know to contact me at 888-888-8888. Thank you for your help.
+AGENT: Friday from 9 a.m. to 12:00 p.m. would you like the address as well?
+VOICE ASSISTANT: No, I don't need the address at the moment. Thank you for confirming the additional office hours. I'll wait for the clinic support team to contact me regarding the cancellation. Have a great day!
+AGENT: Got it.
+VOICE ASSISTANT: Great, thank you for your assistance. Have a good day!
+AGENT: With you, as soon as.
+VOICE ASSISTANT: Thank you, I'll be looking forward to their call. Take care!
+AGENT: okay, the team will reach out  as soon as
+VOICE ASSISTANT: Perfect, thank you for arranging that. I appreciate your help!

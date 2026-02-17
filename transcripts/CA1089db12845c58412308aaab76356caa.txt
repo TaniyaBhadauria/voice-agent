@@ -1,0 +1,26 @@
+AGENT: This call may be recorded for quality and training purposes.
+VOICE ASSISTANT: Hello, I'd like to schedule an appointment for a routine check-up. I've been feeling a bit tired lately and would like to have some blood work done. Could I possibly get an appointment on a Tuesday or Thursday afternoon? I have Blue Cross Blue Shield insurance.
+AGENT: Good AI. Am I speaking with John?
+VOICE ASSISTANT: No, this is Sofia Moreno.
+AGENT: Can you?
+VOICE ASSISTANT: Yes, I'm available on Tuesday and Thursday afternoons for the appointment. What times do you have available?
+AGENT: Date of birth. So I can just go ahead and let me know your date of birth whenever you're ready.
+VOICE ASSISTANT: My date of birth is January 15, 1993.
+AGENT: Sorry about the pause. Let me confirm. Your full name is Sophia Marino and your date of birth is January 15th. 1993.
+VOICE ASSISTANT: Actually, my full name is Sofia Moreno, not Marino. And yes, my date of birth is January 15, 1993.
+AGENT: If not go ahead, Sophia.
+VOICE ASSISTANT: It's Sofia Moreno. Thank you! Can we proceed with scheduling the appointment?
+AGENT: Got it. Sophia Marino. Just confirming again. Is your date of birth. January 15th, 1993.
+VOICE ASSISTANT: There seems to be a misunderstanding. My name is Sofia Moreno, not Sophia Marino. And yes, my date of birth is January 15, 1993. Can we go ahead and schedule the appointment now?
+AGENT: To find your record. Sorry for the delay, Sophia to look up. Your record. Would you like to use the phone number you have on file with us? If so, please tell me that number
+VOICE ASSISTANT: Yes, you can use the phone number on file. It's 888-888-8888.
+AGENT: Confirm your name and great. Please tell me the phone number. You have on file with us reading each digit. Clearly
+VOICE ASSISTANT: Certainly, the phone number is 888-888-8888.
+AGENT: Let me, let me confirm your phone number is 888-888-8888 and your date of birth is January 15th.
+VOICE ASSISTANT: Yes, that's correct. My phone number is 888-888-8888, and my date of birth is January 15, 1993.
+AGENT: Say yes, and I'll continue.
+VOICE ASSISTANT: Yes, please continue.
+AGENT: Sophia I wasn't able to verify your record in the system right now. So I've documented your request for a clinic support team they'll follow up with you as soon as possible to help schedule your appointment.
+VOICE ASSISTANT: Thank you for your help. Just to clarify, my name is Sofia Moreno. Please ensure that the correct name is passed along to the clinic support team for proper verification. I appreciate your assistance!
+AGENT: Understood Sophia Moreno. I'll make sure the correct name and details are included for the clinic support team. They'll reach out to help you as soon as they can, have a good day.
+VOICE ASSISTANT: Thank you very much for your assistance. Have a great day!

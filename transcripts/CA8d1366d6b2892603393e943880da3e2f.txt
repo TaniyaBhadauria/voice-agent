@@ -1,0 +1,40 @@
+AGENT: This call may be recorded for quality and training purposes.
+VOICE ASSISTANT: Of course, that's completely fine. How can I assist you today?
+AGENT: Pivot Point orth.  Would you like to create a demo patient profile? I just need your first and last name to get started.
+VOICE ASSISTANT: Yes, please. My name is Jordan Lee. I'd like to schedule a routine check-up.
+AGENT: Your patient profile has been created and your date of birth is July. 4th 2000 for demo purposes. How may I help you today?
+VOICE ASSISTANT: Thank you for setting up the profile. I would like to schedule my routine check-up. I'm available next Tuesday at 2 PM. Is there an available slot then?
+AGENT: Dot. Let me check for a routine checkup appointment. Next Tuesday around, 2:00 p.m. 1 moment.
+VOICE ASSISTANT: Thank you, I'll hold.
+AGENT: Tuesday for a routine.
+VOICE ASSISTANT: Yes, that's correct. If Tuesday at 2 PM is not available, I could also do Thursday morning. Please let me know what works best.
+AGENT: 15 p.m. slot.
+VOICE ASSISTANT: Great, that works for me. Can we confirm the appointment for next Tuesday at 2:15 PM then?
+AGENT: Checkup is booked.
+VOICE ASSISTANT: Thank you. Could you please repeat the confirmed date and time for the appointment just to make sure we have it right?
+AGENT: Okay, February.
+VOICE ASSISTANT: Could you clarify the full date and time for the appointment, please? Just to ensure there's no confusion.
+AGENT: Sure, your appointment is set for Tuesday, February 24th at 2:15 p.m. with Dr. Dudy Howser you need anything else?
+VOICE ASSISTANT: Yes, I have a couple more questions. First, is it possible to get a prescription or see lab results without an in-person visit?
+AGENT: Prescriptions can be renewed or discussed virtually but it depends on your condition and the provider's decision for lab results. You can often get them without an in-person visit depending on your provider.  Would you like me to ask your care team about prescription refills or seeing lab results?
+VOICE ASSISTANT: Not at the moment, thank you for the information. Also, could you tell me the exact cost of the upcoming visit? I should mention that my insurance may not be active right now.
+AGENT: The exact.  The exact cost of your visit can vary based on your insurance status and the services provided since your insurance may not be active. I recommend confirming with the Clinic's billing department.  Would you like me to have the clinic support team? Follow up with you about costs and payment options?
+VOICE ASSISTANT: That would be helpful, thank you. Also, I've been experiencing some mild chest tightness occasionally. Is this something I should mention now, or should I wait until the appointment?
+AGENT: Any new symptoms?
+VOICE ASSISTANT: Yes, I mentioned experiencing mild chest tightness. Should I be concerned about this, or can it wait until my scheduled appointment?
+AGENT: Are concerning symptoms.
+VOICE ASSISTANT: Understood. I'll make sure to discuss it with the doctor during my appointment. By the way, can you confirm the time of the appointment again for me?
+AGENT: your appointment is Tuesday, February 24th at 2:15 p.m.
+VOICE ASSISTANT: Thank you for confirming that. Just out of curiosity, are you a real person or a virtual assistant?
+AGENT: I'm a virtual assistant here to help you with scheduling in general questions. If you ever need to speak with a real person, I can have the clinic staff. Follow up.
+VOICE ASSISTANT: Thanks for the clarification. I appreciate your help today. Actually, I need to cancel the appointment I just made for Tuesday, February 24th at 2:15 p.m. Could you assist with that?
+AGENT: I can help with your cancellation request. Let me take care of that for you 1 moment, while I process the cancellation.
+VOICE ASSISTANT: Thank you, I'll hold.
+AGENT: I'll handle your cancellation request now, let me confirm when it's completed.
+VOICE ASSISTANT: Thank you for handling that. Please let me know once it's confirmed.
+AGENT: I'm processing your request. Now I'll let you know as soon as the appointment is cancelled.
+VOICE ASSISTANT: Thank you for the update. I'll wait for the confirmation.
+AGENT: I'm unable to cancel appointments directly, but I've noted your cancellation request, the clinic staff will follow up with you to confirm the cancellation.  Is there anything else I can help you with today?
+VOICE ASSISTANT: No, that will be all for today. Thank you for your assistance. Have a great day!
+AGENT: Got it. Have a great day.
+VOICE ASSISTANT: Thank you, goodbye!

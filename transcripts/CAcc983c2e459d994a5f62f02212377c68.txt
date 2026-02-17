@@ -1,0 +1,54 @@
+AGENT: This call may be recorded for quality and training purposes.
+VOICE ASSISTANT: Of course, how can I assist you today?
+AGENT: PX part of pretty good AI. Am I speaking with Kevin?
+VOICE ASSISTANT: I'm not Kevin, but I'm here to help you! How can I assist you today?
+AGENT: Sure how may I help you today?
+VOICE ASSISTANT: It seems there might be a bit of confusion. I'm here to help you with any inquiries or issues you might have. How can I assist you today?
+AGENT: Understood, if you need any information about Pivot Point Orthopedics, appointments medications billing racing else, just let me know how I can help.
+VOICE ASSISTANT: Thank you! I would like to know if Pivot Point Orthopedics accepts Aetna insurance, and what the co-pay would be for a visit. Could you provide that information?
+AGENT: Pivot Point Orthopedics does except most insurance plans including many aetna plans for specific details like your co-pay, it's best to contact Aetna directly or check your insurance card.
+VOICE ASSISTANT: Great, thank you for confirming that Pivot Point Orthopedics acepts Aetna insurance. I'll check with Aetna directly to find out the details about the co-pay. I appreciate your help! Is there anything else I should know about scheduling an appointment or preparing for a visit?
+AGENT: Clinic.
+VOICE ASSISTANT: Could you provide more details about what you need regarding the clinic? For example, are you asking about how to schedule an appointment, clinic hours, or something else?
+AGENT: Or need.
+VOICE ASSISTANT: If you need to schedule an appointment at Pivot Point Orthopedics, it would be helpful to know the clinic's hours and what you should bring to your first visit. Also, if there are any specific preparations required before coming in, such as fasting for certain tests or bringing any previous medical records, please let me know.
+AGENT: Information, you need.
+VOICE ASSISTANT: For scheduling an appointment, I would need to know:
+
+1. The clinic's operating hours.
+2. If a referral from a primary care doctor is required.
+3. Any specific documents or information I should bring, such as identification, medical history, or previous test results.
+4. Any preparation required before the visit, like fasting.
+5. The lead time for securing an appointment.
+
+Could you provide that information?
+AGENT: Or do next. I'm here to help.
+VOICE ASSISTANT: To proceed, could you please provide the clinic's operating hours and let me know if I need a referral from my primary care physician to schedule an appointment? Additionally, it would be helpful to know what documents or information I should bring to my first visit. Thank you for your assistance!
+AGENT: pivot point, or
+VOICE ASSISTANT: For clarity, could you confirm the operating hours for Pivot Point Orthopedics? Additionally, please let me know if I require a referral from my primary care doctor to set up an appointment and what specific documents or preparations are needed for the first visit. Thank you for your help!
+AGENT: Debit Point orthopedic.
+VOICE ASSISTANT: It appears there might be a typo or misunderstanding in the name. Just to clarify, are we discussing Pivot Point Orthopedics? If so, could you confirm the operating hours, whether a referral from a primary care doctor is required, and what specific documents or preparations I need for my first visit? Thank you!
+AGENT: You're welcome. Here's a summary for Pivot Point Orthopedics.
+VOICE ASSISTANT: Thank you! I'm ready to note down the details. Please go ahead with the summary for Pivot Point Orthopedics.
+AGENT: day and Thursday, from
+VOICE ASSISTANT: It seems like the message got cut off. Could you please provide the complete operating hours for Pivot Point Orthopedics on the days they are open? Also, any additional information about referrals or preparations needed for the first visit would be very helpful. Thank you!
+AGENT: Hi there. How can I help you today?
+VOICE ASSISTANT: It seems there was a misunderstanding in our communication. I'm trying to gather information about Pivot Point Orthopedics. Could you provide the full operating hours, specify if a referral from a primary care doctor is necessary, and list any documents or preparations needed for the first visit? Thank you for your assistance.
+AGENT: Here's what you need.
+VOICE ASSISTANT: Perfect, thank you! Please go ahead and provide the details.
+AGENT: Let me answer your questions. Pivot Point Orthopedics is open Monday Tuesday and Thursday from 9:00 a.m. to 4:00 p.m. Wednesday from 12:00 p.m. to 7:00 p.m. Friday from 9:00 a.m. to 12 pm
+VOICE ASSISTANT: Thank you for providing the operating hours for Pivot Point Orthopedics. Could you also inform me if a referral from a primary care doctor is required to schedule an appointment and what specific documents or preparations I need to bring for my first visit?
+AGENT: Doctor to schedule a no problem.
+VOICE ASSISTANT: Thank you for confirming that no referral is needed from a primary care doctor to schedule an appointment at Pivot Point Orthopedics. Could you please let me know what specific documents or preparations I should bring for my first visit?
+AGENT: For your first, visit to Pivot Point Orthopedics, bring your photo ID. Insurance card, a list of current medications and any relevant, medical records or Imaging.
+VOICE ASSISTANT: Thank you for the detailed information. I will make sure to bring my photo ID, insurance card, a list of current medications, and any relevant medical records or imaging to my first visit at Pivot Point Orthopedics. I appreciate your assistance! Is there anything else I should know or prepare for before my appointment?
+AGENT: That covers the main things just arrived a bit early for paperwork. We are comfortable clothing. If you'll be examined or moving around, if you have questions about your condition or treatment,
+VOICE ASSISTANT: Thank you for the helpful tips! I'll make sure to arrive early for paperwork and wear comfortable clothing. I'll also prepare any questions I have about my condition or treatment to discuss during the visit. I appreciate your guidance and assistance in preparing for my appointment at Pivot Point Orthopedics. Thank you!
+AGENT: I'm here. How can I help you today?
+VOICE ASSISTANT: It looks like we've covered all the necessary details for my upcoming visit to Pivot Point Orthopedics. Thank you for all the information! I don't have any further questions at this time. Have a great day!
+AGENT: Got it.
+VOICE ASSISTANT: If you need anything else in the future, feel free to reach out. Take care!
+AGENT: Have a great day.
+VOICE ASSISTANT: Thank you, you too!
+AGENT: just let
+VOICE ASSISTANT: If there's anything else you need help with, just let me know! I'm here to assist you.
